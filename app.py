@@ -4,3 +4,4 @@ def saludo():
         f.write("Este es un mensaje guardado en un archivo.")
 
 saludo()
+"def suma(a, b):`n    return a + b" 
